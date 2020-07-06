@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-  24 News Malayalam  iptv playlist / link
+#EXTINF:-  24 News Malayalam  
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
-#EXTINF:-  1st India iptv playlist / link
+#EXTINF:-  1st India 
 https://live.wmncdn.net/firstindianewstv1/live.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-  4K Tamil TV iptv playlist / link
+#EXTINF:-  4K Tamil TV 
 http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
 
-#EXTINF:-  7S Music iptv playlist / link
+#EXTINF:-  7S Music 
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
-#EXTINF:-  5aab TV iptv playlist / link
+#EXTINF:-  5aab TV 
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
-#EXTINF:-  9XM iptv playlist / link
+#EXTINF:-  9XM 
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
 
 #EXTINF:-  Aaj Tak iptv playlist / link (Opt-1)
